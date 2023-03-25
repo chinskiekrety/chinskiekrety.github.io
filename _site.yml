@@ -1,0 +1,10 @@
+name: "chinskie-krety"
+navbar:
+  title: "Chińskie krety"
+left:
+  - text: "Home"
+    href: index.html
+output: 
+  html_document:
+    theme: default
+    

@@ -1,0 +1,34 @@
+---
+title: "Chińskie krety - jedyna taka strona na świecie"
+---
+
+### To jest chiński kret. Konkretnie to zdjęcie pochodzi z Tajwanu.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Anourosorex_squamips_yamashinai_%28adult%29_PShaner_2011-5-4.png" alt="chiński kret z Wikipedii" style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 70%;"/> </img>
+
+Zdjęcie pobrane z Wikipedii.
+
+### A to jest chiński kret z naszej wyobraźni wspomagany Midjourney.
+
+<img src="files/eds_elongblack_mole.png" alt="Chiński kret z wyobraźni wspomagany Midjourney" style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 70%;"/> </img>
+
+Jajko dinozaura, pterodaktyla.
+
+### To też jest chiński kret. On uwielbia się stroić :)
+
+<img src="files/rys_kret.png" alt="chiński kret rysunek" style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 70%;"/> </img>
+
+Rysunek wykonany ręcznie.
+
+**To są właśnie chińskie krety!!!**
+
+~Coś tu jeszcze się pojawi...~

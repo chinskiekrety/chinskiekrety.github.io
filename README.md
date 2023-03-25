@@ -1,3 +1,3 @@
 # chinskiekrety.github.io
-Strona internetowa o chińskich kretach
 
+Strona internetowa o chińskich kretach
